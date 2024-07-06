@@ -1,0 +1,4 @@
+loc,tag,text,autocapitalize,autocorrect,class,data-test,id,name,placeholder,type,value,url
+//*[@id='user-name'],input,,none,off,input_error form_input,username,user-name,user-name,Username,text,,https://www.saucedemo.com/
+//*[@id='password'],input,,none,off,input_error form_input,password,password,password,Password,password,,https://www.saucedemo.com/
+//*[@id='login-button'],input,,,,submit-button btn_action,login-button,login-button,login-button,,submit,Login,https://www.saucedemo.com/

@@ -1,0 +1,18 @@
+loc,tag,text,id,url,class,data-test,placeholder,type,name,autocorrect,autocapitalize,value
+"//*[@id=""root""]",div,Swag LabsAccepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce,root,https://www.saucedemo.com/,,,,,,,,
+"//*[@id=""root""]/div",div,Swag LabsAccepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce,,https://www.saucedemo.com/,login_container,,,,,,,
+"//*[@id=""root""]/div/div[1]",div,Swag Labs,,https://www.saucedemo.com/,login_logo,,,,,,,
+"//*[@id=""root""]/div/div[2]",div,Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce,,https://www.saucedemo.com/,login_wrapper,login-container,,,,,,
+"//*[@id=""root""]/div/div[2]/div[1]",div,,,https://www.saucedemo.com/,login_wrapper-inner,,,,,,,
+"//*[@id=""login_button_container""]",div,,login_button_container,https://www.saucedemo.com/,form_column,,,,,,,
+"//*[@id=""login_button_container""]/div",div,,,https://www.saucedemo.com/,login-box,,,,,,,
+"//*[@id=""login_button_container""]/div/form/div[1]",div,,,https://www.saucedemo.com/,form_group,,,,,,,
+"//*[@id=""user-name""]",input,,user-name,https://www.saucedemo.com/,input_error form_input,username,Username,text,user-name,off,none,standard_user
+"//*[@id=""login_button_container""]/div/form/div[2]",div,,,https://www.saucedemo.com/,form_group,,,,,,,
+"//*[@id=""password""]",input,,password,https://www.saucedemo.com/,input_error form_input,password,Password,password,password,off,none,secret_sauce
+"//*[@id=""login_button_container""]/div/form/div[3]",div,,,https://www.saucedemo.com/,error-message-container,,,,,,,
+"//*[@id=""login""]",input,,login,https://www.saucedemo.com/,submit-button btn_action,login-button,,submit,login-button,,,Login
+"//*[@id=""root""]/div/div[2]/div[2]",div,Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce,,https://www.saucedemo.com/,login_credentials_wrap,login-credentials-container,,,,,,
+"//*[@id=""root""]/div/div[2]/div[2]/div",div,Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_userPassword for all users:secret_sauce,,https://www.saucedemo.com/,login_credentials_wrap-inner,,,,,,,
+"//*[@id=""login_credentials""]",div,Accepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_user,login_credentials,https://www.saucedemo.com/,login_credentials,login-credentials,,,,,,
+"//*[@id=""root""]/div/div[2]/div[2]/div/div[2]",div,Password for all users:secret_sauce,,https://www.saucedemo.com/,login_password,login-password,,,,,,
